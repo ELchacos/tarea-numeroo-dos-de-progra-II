@@ -1,0 +1,7 @@
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\bin\Debug\tarea 1 progra II.exe.config
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\bin\Debug\tarea 1 progra II.exe
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\bin\Debug\tarea 1 progra II.pdb
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\obj\Debug\tarea 1 progra II.csproj.AssemblyReference.cache
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\obj\Debug\tarea 1 progra II.csproj.CoreCompileInputs.cache
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\obj\Debug\tarea 1 progra II.exe
+C:\Users\xpc\source\repos\tarea-1-progra-II\tarea 1 progra II\obj\Debug\tarea 1 progra II.pdb
